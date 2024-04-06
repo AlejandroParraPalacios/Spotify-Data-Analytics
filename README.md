@@ -26,6 +26,7 @@ Para los Artistas: Los emergentes y los géneros menos comerciales enfrentan obs
 Este reporsitorio cuenta cuanta con los siguientes archivos:
 - **PROYECTO_ETL.ipynb:** Notebook de Jupyter que ejecuta código Python para llevar a cabo el proceso ETL (Extracción, Transformación y Carga) desde la API de Spotify hasta una base de datos MySQL.
 - **Dashboard_Spotify.pbix:** Dashboard interactivo creado a partir de los datos de MySQL, que presenta de manera dinámica y visual la información procesada, reflejando las tendencias y patrones de consumo musical.
+- **Tablas.sql:** Son las utilizadas dentro de la gestión y conexión para la base de datos.
 
 ## Muestra del Dashboard
 ---
